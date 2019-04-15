@@ -1,0 +1,1214 @@
+﻿Log file open, 04/15/19 14:12:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PlayerTest
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.298109
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.079s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA Quadro M4000
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=Cramzi -epicuserid=04cf2effa041466e9ec2cb7be1014fb3 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Engine.ini]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Engine.ini]
+[2019.04.15-18.12.34:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Engine.ini]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Engine.ini]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.15-18.12.34:039][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Engine.ini]
+[2019.04.15-18.12.34:039][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Engine.ini]
+[2019.04.15-18.12.34:040][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.15-18.12.34:041][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.15-18.12.34:041][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.15-18.12.34:041][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.15-18.12.34:059][  0]LogHAL: Display: Platform has ~ 32 GB [34276421632 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.15-18.12.34:059][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.15-18.12.34:059][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.15-18.12.34:059][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Scalability.ini]
+[2019.04.15-18.12.34:059][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.15-18.12.34:060][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.15-18.12.34:060][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.15-18.12.34:060][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.15-18.12.34:060][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Config/Windows/Engine.ini]
+[2019.04.15-18.12.34:060][  0]LogInit: Computer: N210D6
+[2019.04.15-18.12.34:060][  0]LogInit: User: 001408644
+[2019.04.15-18.12.34:060][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.15-18.12.34:060][  0]LogInit: High frequency timer resolution =3.328126 MHz
+[2019.04.15-18.12.34:060][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.04.15-18.12.34:060][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.15-18.12.34:060][  0]LogMemory: Process Physical Memory: 104.09 MB used, 104.09 MB peak
+[2019.04.15-18.12.34:060][  0]LogMemory: Process Virtual Memory: 97.63 MB used, 97.63 MB peak
+[2019.04.15-18.12.34:060][  0]LogMemory: Physical Memory: 7187.51 MB used,  25501.04 MB free, 32688.54 MB total
+[2019.04.15-18.12.34:060][  0]LogMemory: Virtual Memory: 4662.48 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.04.15-18.12.34:103][  0]LogInit: Using OS detected language (en-US).
+[2019.04.15-18.12.34:103][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.15-18.12.34:105][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.15-18.12.34:461][  0]LogStreaming: Display: Took  0.358s to InitEngineTextLocalization.
+[2019.04.15-18.12.34:461][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.15-18.12.34:499][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.15-18.12.34:499][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.15-18.12.34:685][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.15-18.12.34:685][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.15-18.12.34:732][  0]LogD3D11RHI:    0. 'NVIDIA Quadro M4000' (Feature Level 11_0)
+[2019.04.15-18.12.34:732][  0]LogD3D11RHI:       8144/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.04.15-18.12.34:735][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.15-18.12.34:735][  0]LogD3D11RHI:       0/0/16344 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.15-18.12.34:735][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.15-18.12.34:740][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.15-18.12.34:740][  0]LogD3D11RHI:     GPU DeviceId: 0x13f1 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.15-18.12.34:740][  0]LogWindows: EnumDisplayDevices:
+[2019.04.15-18.12.34:740][  0]LogWindows:    0. 'NVIDIA Quadro M4000' (P:1 D:1)
+[2019.04.15-18.12.34:740][  0]LogWindows:    1. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.04.15-18.12.34:740][  0]LogWindows:    2. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.04.15-18.12.34:741][  0]LogWindows:    3. 'NVIDIA Quadro M4000' (P:0 D:0)
+[2019.04.15-18.12.34:741][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.15-18.12.34:741][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro M4000
+[2019.04.15-18.12.34:741][  0]LogD3D11RHI:   Driver Version: 391.33 (internal:23.21.13.9133, unified:391.33)
+[2019.04.15-18.12.34:741][  0]LogD3D11RHI:      Driver Date: 3-22-2018
+[2019.04.15-18.12.34:741][  0]LogRHI: Texture pool is 5701 MB (70% of 8144 MB)
+[2019.04.15-18.12.34:775][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.15-18.12.34:791][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.15-18.12.35:201][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.15-18.12.35:215][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.15-18.12.35:228][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.15-18.12.35:241][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.15-18.12.35:256][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.15-18.12.35:270][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.15-18.12.35:286][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.15-18.12.35:299][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.15-18.12.35:306][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.15-18.12.35:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:369][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:370][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.15-18.12.35:373][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.15-18.12.35:436][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.15-18.12.35:436][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.15-18.12.35:457][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.15-18.12.35:457][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.15-18.12.35:470][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.15-18.12.35:482][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.15-18.12.35:495][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.15-18.12.35:508][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.15-18.12.35:546][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.15-18.12.35:546][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.15-18.12.35:546][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.15-18.12.35:661][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/001408644/Desktop/TestFolder/PlayerTest/Intermediate/Shaders/WorkingDirectory/9048/).
+[2019.04.15-18.12.35:661][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/001408644/AppData/Local/Temp/UnrealShaderWorkingDir/DB1212064004630FD389D782E8068ECB/'.
+[2019.04.15-18.12.35:663][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.15-18.12.35:663][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.15-18.12.35:663][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.15-18.12.36:140][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.15-18.12.36:182][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/001408644/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.15-18.12.36:182][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/001408644/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.15-18.12.36:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/001408644/Desktop/TestFolder/PlayerTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.15-18.12.36:182][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.15-18.12.36:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/001408644/Desktop/TestFolder/PlayerTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.15-18.12.36:182][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.15-18.12.36:194][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.15-18.12.36:194][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.15-18.12.36:194][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.15-18.12.36:206][  0]LogDerivedDataCache: Using Local data cache path C:/Users/001408644/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.15-18.12.36:206][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.15-18.12.36:206][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.15-18.12.36:226][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.15-18.12.36:227][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.15-18.12.36:228][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.15-18.12.36:305][  0]LogAssetRegistry: FAssetRegistry took 0.0309 seconds to start up
+[2019.04.15-18.12.36:576][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.15-18.12.36:660][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.15-18.12.36:669][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.15-18.12.36:669][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.15-18.12.36:669][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.15-18.12.36:669][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.15-18.12.36:753][  0]LogNetVersion: PlayerTest 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4129217094)
+[2019.04.15-18.12.37:220][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.114786 seconds
+[2019.04.15-18.12.37:227][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.15-18.12.37:227][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.15-18.12.37:227][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.15-18.12.38:150][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.15-18.12.38:166][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.15-18.12.38:807][  0]SourceControl: Source control is disabled
+[2019.04.15-18.12.38:807][  0]SourceControl: Source control is disabled
+[2019.04.15-18.12.38:811][  0]SourceControl: Source control is disabled
+[2019.04.15-18.12.38:815][  0]SourceControl: Source control is disabled
+[2019.04.15-18.12.39:066][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.15-18.12.39:126][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2019.04.15-18.12.39:128][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 17.5.173/bin
+[2019.04.15-18.12.39:129][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.04.15-18.12.39:132][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.04.15-18.12.39:138][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.04.15-18.12.40:943][  0]LogHoudiniEngine: Successfully intialized the Houdini Engine API module.
+[2019.04.15-18.12.40:964][  0]LogOcInput: OculusInput pre-init called
+[2019.04.15-18.12.41:111][  0]LogEngine: Initializing Engine...
+[2019.04.15-18.12.41:112][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.15-18.12.41:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.15-18.12.41:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.15-18.12.41:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.15-18.12.41:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.15-18.12.41:341][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.15-18.12.41:356][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.15-18.12.41:365][  0]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.12.41:397][  0]LogInit: FAudioDevice initialized.
+[2019.04.15-18.12.41:397][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.15-18.12.41:437][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/001408644/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.15-18.12.41:445][  0]LogInit: Texture streaming: Enabled
+[2019.04.15-18.12.41:469][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.15-18.12.41:484][  0]LogInit: Transaction tracking system initialized
+[2019.04.15-18.12.41:518][  0]BlueprintLog: New page: Editor Load
+[2019.04.15-18.12.41:631][  0]LocalizationService: Localization service is disabled
+[2019.04.15-18.12.42:081][  0]LogFileCache: Scanning file cache for directory 'C:/Users/001408644/Desktop/TestFolder/PlayerTest/Content/' took 0.02s
+[2019.04.15-18.12.42:081][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.15-18.12.42:081][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.15-18.12.42:081][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.15-18.12.42:081][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.15-18.12.42:081][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.15-18.12.42:081][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.15-18.12.42:081][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.15-18.12.42:230][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2019.04.15-18.12.42:231][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2019.04.15-18.12.42:292][  0]SourceControl: Source control is disabled
+[2019.04.15-18.12.42:292][  0]Cmd: MAP LOAD FILE="../../../../../../Users/001408644/Desktop/TestFolder/PlayerTest/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.15-18.12.42:297][  0]LightingResults: New page: Lighting Build
+[2019.04.15-18.12.42:300][  0]MapCheck: New page: Map Check
+[2019.04.15-18.12.42:301][  0]LightingResults: New page: Lighting Build
+[2019.04.15-18.12.42:996][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.15-18.12.43:004][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.15-18.12.43:025][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.15-18.12.43:025][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.114ms to complete.
+[2019.04.15-18.12.43:025][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.734
+[2019.04.15-18.12.43:124][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.12.43:130][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.12.43:137][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.12.43:144][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.12.43:157][  0]LogCollectionManager: Loaded 0 collections in 0.003564 seconds
+[2019.04.15-18.12.43:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/001408644/Desktop/TestFolder/PlayerTest/Saved/Collections/' took 0.01s
+[2019.04.15-18.12.43:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/001408644/Desktop/TestFolder/PlayerTest/Content/Developers/001408644/Collections/' took 0.00s
+[2019.04.15-18.12.43:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/001408644/Desktop/TestFolder/PlayerTest/Content/Collections/' took 0.00s
+[2019.04.15-18.12.43:174][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.15-18.12.43:182][  0]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2689 classes and 627 folders.
+[2019.04.15-18.12.43:188][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.15-18.12.43:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:214][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:218][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:222][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:230][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:233][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:238][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:242][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:246][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:251][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:255][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:263][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:291][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:300][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:320][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:325][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:329][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:334][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:343][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.15-18.12.43:470][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.15-18.12.43:502][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.04.15-18.12.43:575][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.15-18.12.43:577][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.15-18.12.43:586][  0]LogSlate: Took 0.003908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.15-18.12.43:697][  0]LogRenderer: Reallocating scene render targets to support 1052x604 Format 10 NumSamples 1 (Frame:1).
+[2019.04.15-18.12.43:740][  0]LogSlate: Took 0.003923 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.15-18.12.43:824][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.15-18.12.43:824][  0]LogLoad: (Engine Initialization) Total time: 11.77 seconds
+[2019.04.15-18.12.43:824][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.15-18.12.43:835][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.15-18.12.43:893][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.15-18.12.43:970][  1]LogAssetRegistry: Asset discovery search completed in 7.6864 seconds
+[2019.04.15-18.12.43:972][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.15-18.12.43:972][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2019.04.15-18.12.44:850][102]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.15-18.13.05:031][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.13.05:098][524]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.13.05:112][524]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.15-18.13.05:112][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.13.05:113][524]PIE: New page: PIE session: FirstPersonExampleMap (Apr 15, 2019, 10:13:05 AM)
+[2019.04.15-18.13.05:125][524]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.04.15-18.13.05:143][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017549s)
+[2019.04.15-18.13.05:143][524]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.04.15-18.13.05:144][524]LogPlayLevel: PIE: World Init took: (0.001082s)
+[2019.04.15-18.13.05:144][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018953s)
+[2019.04.15-18.13.05:170][524]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.13.05:181][524]LogInit: FAudioDevice initialized.
+[2019.04.15-18.13.05:222][524]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.13.05:224][524]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2019.04.15-14.13.05
+[2019.04.15-18.13.05:225][524]LogWorld: Bringing up level for play took: 0.001265
+[2019.04.15-18.13.05:243][524]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.04.15-18.13.05:248][524]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.557
+[2019.04.15-18.13.05:248][524]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.15-18.13.08:928][961]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.15-18.13.08:929][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.13.08:960][961]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.13.08:960][961]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.04.15-18.13.08:982][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.13.09:032][965]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.04.15-18.13.17:630][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.13.17:663][994]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.13.23:548][693]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.15-18.13.23:552][693]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/MainMenu.MainMenu
+[2019.04.15-18.13.23:572][693]Cmd: MAP LOAD FILE="../../../../../../Users/001408644/Desktop/TestFolder/PlayerTest/Content/Levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.15-18.13.23:572][693]LightingResults: New page: Lighting Build
+[2019.04.15-18.13.23:572][693]LoadErrors: New page: Loading map: MainMenu.umap
+[2019.04.15-18.13.23:573][693]MapCheck: New page: Map Check
+[2019.04.15-18.13.23:573][693]LightingResults: New page: Lighting Build
+[2019.04.15-18.13.23:649][693]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.15-18.13.23:690][693]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.15-18.13.23:690][693]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2019.04.15-18.13.23:690][693]LogFileHelpers: Loading map 'MainMenu' took 0.120
+[2019.04.15-18.13.24:883][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.13.24:941][837]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.13.24:955][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.15-18.13.24:955][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.13.24:955][837]PIE: New page: PIE session: MainMenu (Apr 15, 2019, 10:13:24 AM)
+[2019.04.15-18.13.24:955][837]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainMenu
+[2019.04.15-18.13.24:956][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000718s)
+[2019.04.15-18.13.24:956][837]LogAIModule: Creating AISystem for world MainMenu
+[2019.04.15-18.13.24:956][837]LogPlayLevel: PIE: World Init took: (0.000471s)
+[2019.04.15-18.13.24:956][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainMenu.MainMenu to /Game/Levels/UEDPIE_0_MainMenu.MainMenu (0.001389s)
+[2019.04.15-18.13.24:980][837]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.13.24:992][837]LogInit: FAudioDevice initialized.
+[2019.04.15-18.13.25:020][837]LogLoad: Game class is 'MainMenuGM_C'
+[2019.04.15-18.13.25:021][837]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.04.15-14.13.25
+[2019.04.15-18.13.25:021][837]LogWorld: Bringing up level for play took: 0.000281
+[2019.04.15-18.13.25:034][837]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_MainMenu -0.77
+[2019.04.15-18.13.25:034][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.15-18.13.26:009][953]LogNet: Browse: /Game/Levels/Level3Play
+[2019.04.15-18.13.26:010][953]LogLoad: LoadMap: /Game/Levels/Level3Play
+[2019.04.15-18.13.26:085][953]LogAIModule: Creating AISystem for world Level3Play
+[2019.04.15-18.13.26:086][953]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.13.26:088][953]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level3Play.Level3Play up for play (max tick rate 0) at 2019.04.15-14.13.26
+[2019.04.15-18.13.26:088][953]LogWorld: Bringing up level for play took: 0.002043
+[2019.04.15-18.13.26:089][953]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.04.15-18.13.26:091][953]LogLoad: Took 0.082304 seconds to LoadMap(/Game/Levels/Level3Play)
+[2019.04.15-18.13.28:872][285]LogNet: Browse: /Game/Levels/CameraTest
+[2019.04.15-18.13.28:873][285]LogLoad: LoadMap: /Game/Levels/CameraTest
+[2019.04.15-18.13.28:934][285]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.13.28:934][285]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.13.28:942][285]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.13.28
+[2019.04.15-18.13.28:942][285]LogWorld: Bringing up level for play took: 0.007255
+[2019.04.15-18.13.28:944][285]LogLoad: Took 0.071641 seconds to LoadMap(/Game/Levels/CameraTest)
+[2019.04.15-18.13.33:076][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.15-18.13.33:076][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.13.33:107][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.13.33:108][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Levels/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Levels/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.04.15-18.13.33:130][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.13.33:177][784]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.04.15-18.13.35:688][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.13.35:843][100]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.13.35:854][100]LogAssetEditorManager: Opening Asset editor for World /Game/Levels/CameraTest.CameraTest
+[2019.04.15-18.13.35:874][100]Cmd: MAP LOAD FILE="../../../../../../Users/001408644/Desktop/TestFolder/PlayerTest/Content/Levels/CameraTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.15-18.13.35:874][100]LightingResults: New page: Lighting Build
+[2019.04.15-18.13.35:875][100]LoadErrors: New page: Loading map: CameraTest.umap
+[2019.04.15-18.13.35:875][100]MapCheck: New page: Map Check
+[2019.04.15-18.13.35:875][100]LightingResults: New page: Lighting Build
+[2019.04.15-18.13.35:962][100]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.15-18.13.36:006][100]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.15-18.13.36:006][100]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.126ms to complete.
+[2019.04.15-18.13.36:006][100]LogFileHelpers: Loading map 'CameraTest' took 0.133
+[2019.04.15-18.13.37:447][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.13.37:506][272]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.13.37:520][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.13.37:520][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.13.37:520][272]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:13:37 AM)
+[2019.04.15-18.13.37:520][272]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.13.37:537][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017180s)
+[2019.04.15-18.13.37:538][272]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.13.37:538][272]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2019.04.15-18.13.37:538][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.018038s)
+[2019.04.15-18.13.37:562][272]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.13.37:572][272]LogInit: FAudioDevice initialized.
+[2019.04.15-18.13.37:601][272]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.13.37:603][272]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.13.37
+[2019.04.15-18.13.37:604][272]LogWorld: Bringing up level for play took: 0.001204
+[2019.04.15-18.13.37:619][272]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest -0.184
+[2019.04.15-18.13.37:620][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.13.39:522][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.13.39:522][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.13.39:552][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.13.39:552][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.13.39:572][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.13.39:620][501]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.04.15-18.13.41:474][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.13.41:557][733]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.13.41:570][733]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.13.41:570][733]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.13.41:570][733]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:13:41 AM)
+[2019.04.15-18.13.41:570][733]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.13.41:582][733]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011634s)
+[2019.04.15-18.13.41:582][733]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.13.41:582][733]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2019.04.15-18.13.41:582][733]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.012553s)
+[2019.04.15-18.13.41:607][733]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.13.41:617][733]LogInit: FAudioDevice initialized.
+[2019.04.15-18.13.41:649][733]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.13.41:651][733]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.13.41
+[2019.04.15-18.13.41:652][733]LogWorld: Bringing up level for play took: 0.001232
+[2019.04.15-18.13.41:665][733]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest -0.139
+[2019.04.15-18.13.41:665][733]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.13.46:330][262]LogEditorViewport: Clicking on Actor (LMB): Ue4ASP_Character_C (Ue4ASP_Character)
+[2019.04.15-18.13.49:133][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.13.53:407][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.13.57:967][534]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2019.04.15-18.13.58:437][534]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.04.15-18.13.59:163][534]LogSlate: Took 0.003550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.15-18.13.59:306][535]LogSlate: Took 0.004181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.15-18.14.00:837][668]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.04.15-18.14.02:933][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.14.04:881][967]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.14.04:882][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.14.04:920][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.14.04:921][967]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.14.04:948][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.14.05:064][968]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.04.15-18.15.48:805][926]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip
+[2019.04.15-18.15.48:806][926]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Reload_Shotgun_Hip.Reload_Shotgun_Hip) using current/default (AnimCompress_BitwiseCompressOnly_52) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.15-18.17.26:394][ 19]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights
+[2019.04.15-18.17.26:394][ 19]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Crouch_Idle_Rifle_Ironsights.Crouch_Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.15-18.17.36:389][454]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.04.15-18.17.40:489][866]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.17.40:504][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.17.40:504][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.17.40:504][866]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:17:40 AM)
+[2019.04.15-18.17.40:505][866]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.17.40:516][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011209s)
+[2019.04.15-18.17.40:516][866]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.17.40:517][866]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2019.04.15-18.17.40:517][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.012321s)
+[2019.04.15-18.17.40:551][866]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.17.40:561][866]LogInit: FAudioDevice initialized.
+[2019.04.15-18.17.40:591][866]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.17.40:593][866]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.17.40
+[2019.04.15-18.17.40:593][866]LogWorld: Bringing up level for play took: 0.001147
+[2019.04.15-18.17.40:608][866]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 0.803
+[2019.04.15-18.17.40:608][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.17.44:784][336]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.17.44:784][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.17.44:817][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.17.44:818][336]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.17.44:843][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.17.44:890][339]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.15-18.17.45:949][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.18.53:376][252]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights
+[2019.04.15-18.18.53:376][252]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.Walk_Bwd_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_58) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.15-18.18.56:024][547]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.04.15-18.18.59:325][870]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.18.59:340][870]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.18.59:340][870]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.18.59:340][870]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:18:59 AM)
+[2019.04.15-18.18.59:340][870]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.18.59:351][870]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010155s)
+[2019.04.15-18.18.59:351][870]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.18.59:351][870]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2019.04.15-18.18.59:351][870]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.010902s)
+[2019.04.15-18.18.59:384][870]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.18.59:395][870]LogInit: FAudioDevice initialized.
+[2019.04.15-18.18.59:422][870]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.18.59:424][870]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.18.59
+[2019.04.15-18.18.59:424][870]LogWorld: Bringing up level for play took: 0.001216
+[2019.04.15-18.18.59:439][870]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest -0.366
+[2019.04.15-18.18.59:439][870]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.19.06:494][671]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.19.06:495][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.19.06:523][671]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.19.06:523][671]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.19.06:551][671]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.19.06:600][674]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.15-18.19.08:233][852]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.19.14:579][503]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.04.15-18.19.17:054][728]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.19.17:068][728]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.19.17:069][728]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.19.17:069][728]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:19:17 AM)
+[2019.04.15-18.19.17:069][728]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.19.17:082][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012761s)
+[2019.04.15-18.19.17:082][728]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.19.17:082][728]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.04.15-18.19.17:082][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.013650s)
+[2019.04.15-18.19.17:117][728]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.19.17:128][728]LogInit: FAudioDevice initialized.
+[2019.04.15-18.19.17:160][728]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.19.17:162][728]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.19.17
+[2019.04.15-18.19.17:162][728]LogWorld: Bringing up level for play took: 0.001042
+[2019.04.15-18.19.17:177][728]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest -0.628
+[2019.04.15-18.19.17:177][728]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.19.24:464][491]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.19.24:464][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.19.24:500][491]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.19.24:500][491]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.19.24:526][491]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.19.24:564][493]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.15-18.19.25:352][574]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.19.26:105][646]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.19.26:121][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.19.26:121][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.19.26:121][646]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:19:26 AM)
+[2019.04.15-18.19.26:121][646]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.19.26:132][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011203s)
+[2019.04.15-18.19.26:133][646]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.19.26:133][646]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2019.04.15-18.19.26:133][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.012075s)
+[2019.04.15-18.19.26:167][646]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.19.26:178][646]LogInit: FAudioDevice initialized.
+[2019.04.15-18.19.26:178][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.19.26:205][646]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.19.26:207][646]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.19.26
+[2019.04.15-18.19.26:207][646]LogWorld: Bringing up level for play took: 0.001208
+[2019.04.15-18.19.26:221][646]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 0.417
+[2019.04.15-18.19.26:222][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.19.33:134][298]LogEditorViewport: Clicking on Actor (LMB): Ue4ASP_Character_C (Ue4ASP_Character)
+[2019.04.15-18.19.35:536][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.22.04:646][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.22.04:674][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.22.04:707][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.22.04:708][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.22.04:735][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.22.04:759][170]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.15-18.23.42:826][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.26.07:685][210]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.26.07:700][210]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.26.07:701][210]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.15-18.26.07:713][210]LogPlayLevel: [PlayLevel] Compiling Ue4ASP_Character before play...
+[2019.04.15-18.26.07:893][210]LogPlayLevel: PlayLevel: Blueprint regeneration took 192 ms (1 blueprints)
+[2019.04.15-18.26.07:894][210]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:26:07 AM)
+[2019.04.15-18.26.07:894][210]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.26.07:906][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012604s)
+[2019.04.15-18.26.07:907][210]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.26.07:907][210]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2019.04.15-18.26.07:907][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.013631s)
+[2019.04.15-18.26.07:938][210]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.26.07:949][210]LogInit: FAudioDevice initialized.
+[2019.04.15-18.26.07:983][210]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.26.07:986][210]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.26.07
+[2019.04.15-18.26.07:986][210]LogWorld: Bringing up level for play took: 0.001123
+[2019.04.15-18.26.08:001][210]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 0.196
+[2019.04.15-18.26.08:001][210]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.26.36:938][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.26.36:965][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.26.37:000][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.26.37:000][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.26.37:024][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.26.37:045][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.04.15-18.26.37:777][125]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.26.37:793][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.26.37:794][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.26.37:794][125]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:26:37 AM)
+[2019.04.15-18.26.37:794][125]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.26.37:804][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010447s)
+[2019.04.15-18.26.37:805][125]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.26.37:805][125]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2019.04.15-18.26.37:805][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.011329s)
+[2019.04.15-18.26.37:838][125]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.26.37:849][125]LogInit: FAudioDevice initialized.
+[2019.04.15-18.26.37:882][125]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.26.37:885][125]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.26.37
+[2019.04.15-18.26.37:885][125]LogWorld: Bringing up level for play took: 0.001261
+[2019.04.15-18.26.37:899][125]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 0.094
+[2019.04.15-18.26.37:900][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.26.53:669][ 13]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.26.53:669][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.26.53:703][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.26.53:703][ 13]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.26.53:731][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.26.53:770][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.04.15-18.26.55:625][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.27.31:549][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.27.31:591][424]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.27.31:606][424]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.27.31:606][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.27.31:606][424]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:27:31 AM)
+[2019.04.15-18.27.31:606][424]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.27.31:617][424]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010756s)
+[2019.04.15-18.27.31:618][424]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.27.31:618][424]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2019.04.15-18.27.31:618][424]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.011642s)
+[2019.04.15-18.27.31:650][424]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.27.31:660][424]LogInit: FAudioDevice initialized.
+[2019.04.15-18.27.31:694][424]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.27.31:695][424]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.27.31
+[2019.04.15-18.27.31:695][424]LogWorld: Bringing up level for play took: 0.000977
+[2019.04.15-18.27.31:709][424]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest -0.096
+[2019.04.15-18.27.31:709][424]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.27.47:733][244]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/AnimStarterPack/UE4ASP_HeroTPP_AnimBlueprint.UE4ASP_HeroTPP_AnimBlueprint
+[2019.04.15-18.27.47:789][244]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.04.15-18.27.47:989][244]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.15-18.27.47:994][244]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2019.04.15-18.27.48:228][244]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.15-18.27.48:523][244]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2019.04.15-18.28.30:788][ 17]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.28.30:816][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.28.30:849][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.28.30:850][ 17]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.28.30:881][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.28.30:904][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.04.15-18.28.39:420][717]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.28.39:438][717]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.28.39:438][717]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.15-18.28.39:454][717]LogPlayLevel: [PlayLevel] Compiling Ue4ASP_Character before play...
+[2019.04.15-18.28.39:467][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] In use pin  <Unnamed>  no longer exists on node  Can Jump . Please refresh node or break links to remove pin.
+[2019.04.15-18.28.39:468][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] In use pin  <Unnamed>  no longer exists on node  Can Jump . Please refresh node or break links to remove pin.
+[2019.04.15-18.28.39:468][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] In use pin  Should Jump  no longer exists on node  Can Jump . Please refresh node or break links to remove pin.
+[2019.04.15-18.28.39:468][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] In use pin  Jumping  no longer exists on node  Can Jump . Please refresh node or break links to remove pin.
+[2019.04.15-18.28.39:468][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] Could not find a function named "Can Jump" in 'Ue4ASP_Character_C'.
+Make sure 'Ue4ASP_Character_C' has been compiled for  Can Jump
+[2019.04.15-18.28.39:468][717]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Could not find a variable named "Crouching" in 'Ue4ASP_Character_C'.
+Make sure 'Ue4ASP_Character_C' has been compiled for  Set Crouching
+[2019.04.15-18.28.39:468][717]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Could not find a variable named "Direction" in 'Ue4ASP_Character_C'.
+Make sure 'Ue4ASP_Character_C' has been compiled for  Set Direction
+[2019.04.15-18.28.39:468][717]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Could not find a variable named "Enable Jump" in 'Ue4ASP_Character_C'.
+Make sure 'Ue4ASP_Character_C' has been compiled for  Set Enable Jump
+[2019.04.15-18.28.39:468][717]LogBlueprint: Warning: [Compiler Ue4ASP_Character] Could not find a variable named "Speed" in 'Ue4ASP_Character_C'.
+Make sure 'Ue4ASP_Character_C' has been compiled for  Set Speed
+[2019.04.15-18.28.39:469][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] This blueprint (self) is not a AnimInstance, therefore ' Target ' must have a connection.
+[2019.04.15-18.28.39:469][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] This blueprint (self) is not a AnimInstance, therefore ' Target ' must have a connection.
+[2019.04.15-18.28.39:470][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] The property associated with  Enable Jump  could not be found in '/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C'
+[2019.04.15-18.28.39:470][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] The property associated with  Crouching  could not be found in '/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C'
+[2019.04.15-18.28.39:470][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] The property associated with  Speed  could not be found in '/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C'
+[2019.04.15-18.28.39:470][717]LogBlueprint: Error: [Compiler Ue4ASP_Character] The property associated with  Direction  could not be found in '/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character_C'
+[2019.04.15-18.28.39:473][717]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [0967.42] Compile of Ue4ASP_Character failed. 11 Fatal Issue(s) 4 Warning(s) [in 24 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2019.04.15-18.28.39:645][717]LogPlayLevel: PlayLevel: Blueprint regeneration took 206 ms (1 blueprints)
+[2019.04.15-18.28.39:645][717]BlueprintLog: Blueprint Ue4ASP_Character failed to compile
+[2019.04.15-18.28.42:387][717]LogSlate: Window 'Message' being destroyed
+[2019.04.15-18.28.42:392][717]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:28:42 AM)
+[2019.04.15-18.28.42:392][717]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.28.42:404][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011981s)
+[2019.04.15-18.28.42:405][717]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.28.42:405][717]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2019.04.15-18.28.42:405][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.013000s)
+[2019.04.15-18.28.42:446][717]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.28.42:457][717]LogInit: FAudioDevice initialized.
+[2019.04.15-18.28.42:491][717]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.28.42:493][717]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.28.42
+[2019.04.15-18.28.42:493][717]LogWorld: Bringing up level for play took: 0.001198
+[2019.04.15-18.28.42:508][717]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 2.702
+[2019.04.15-18.28.42:508][717]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.28.46:835][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.28.46:836][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.28.46:869][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.28.46:870][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.28.46:901][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.28.46:942][188]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.04.15-18.28.49:352][452]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.28.50:757][552]LogEditorTransaction: Undo Create Pin Link
+[2019.04.15-18.28.50:848][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.15-18.28.50:944][554]LogEditorTransaction: Undo Paste clipboard contents
+[2019.04.15-18.28.51:038][554]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.15-18.28.53:496][770]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.04.15-18.28.54:226][813]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.28.54:241][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.28.54:241][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.28.54:241][813]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:28:54 AM)
+[2019.04.15-18.28.54:241][813]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.28.54:252][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010801s)
+[2019.04.15-18.28.54:252][813]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.28.54:252][813]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2019.04.15-18.28.54:252][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.011628s)
+[2019.04.15-18.28.54:288][813]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.28.54:298][813]LogInit: FAudioDevice initialized.
+[2019.04.15-18.28.54:332][813]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.28.54:334][813]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.28.54
+[2019.04.15-18.28.54:334][813]LogWorld: Bringing up level for play took: 0.001488
+[2019.04.15-18.28.54:349][813]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 0.543
+[2019.04.15-18.28.54:349][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.28.57:280][134]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.28.57:280][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.28.57:311][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.28.57:311][134]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.28.57:340][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.28.57:381][137]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.04.15-18.28.58:311][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.29.48:409][280]LogEditorTransaction: Undo Move Node
+[2019.04.15-18.29.48:505][280]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.15-18.29.49:028][314]LogEditorTransaction: Undo Add Node
+[2019.04.15-18.29.49:129][314]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.15-18.30.01:614][316]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.04.15-18.30.02:641][376]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.30.02:659][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.30.02:659][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.30.02:659][376]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:30:02 AM)
+[2019.04.15-18.30.02:659][376]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.30.02:671][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011997s)
+[2019.04.15-18.30.02:672][376]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.30.02:672][376]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2019.04.15-18.30.02:672][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.012899s)
+[2019.04.15-18.30.02:705][376]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.30.02:715][376]LogInit: FAudioDevice initialized.
+[2019.04.15-18.30.02:751][376]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.30.02:752][376]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.30.02
+[2019.04.15-18.30.02:753][376]LogWorld: Bringing up level for play took: 0.001340
+[2019.04.15-18.30.02:767][376]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 0.961
+[2019.04.15-18.30.02:767][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.30.11:797][403]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.30.11:798][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.30.11:833][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.30.11:834][403]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.30.11:863][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.30.11:912][405]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.04.15-18.30.12:904][518]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.30.58:254][ 81]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.04.15-18.30.59:234][151]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.30.59:249][151]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.30.59:249][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.30.59:250][151]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:30:59 AM)
+[2019.04.15-18.30.59:250][151]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.30.59:262][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012024s)
+[2019.04.15-18.30.59:262][151]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.30.59:263][151]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2019.04.15-18.30.59:263][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.012924s)
+[2019.04.15-18.30.59:297][151]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.30.59:308][151]LogInit: FAudioDevice initialized.
+[2019.04.15-18.30.59:339][151]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.30.59:341][151]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.30.59
+[2019.04.15-18.30.59:342][151]LogWorld: Bringing up level for play took: 0.001499
+[2019.04.15-18.30.59:355][151]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest -0.45
+[2019.04.15-18.30.59:356][151]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.31.15:798][ 82]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.31.15:798][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.31.15:834][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.31.15:835][ 82]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.31.15:866][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.31.15:901][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.04.15-18.31.17:432][259]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.31.29:978][141]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights
+[2019.04.15-18.31.29:978][141]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Walk_Rt_Rifle_Ironsights.Walk_Rt_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_61) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.04.15-18.31.31:394][272]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.04.15-18.31.32:077][312]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.31.32:092][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.31.32:092][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.31.32:092][312]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:31:32 AM)
+[2019.04.15-18.31.32:093][312]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.31.32:104][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011001s)
+[2019.04.15-18.31.32:104][312]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.31.32:104][312]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2019.04.15-18.31.32:104][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.011833s)
+[2019.04.15-18.31.32:141][312]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.31.32:152][312]LogInit: FAudioDevice initialized.
+[2019.04.15-18.31.32:187][312]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.31.32:188][312]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.31.32
+[2019.04.15-18.31.32:189][312]LogWorld: Bringing up level for play took: 0.001360
+[2019.04.15-18.31.32:202][312]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 0.397
+[2019.04.15-18.31.32:203][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.31.38:885][ 89]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.31.38:886][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.31.38:920][ 89]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.31.38:921][ 89]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.31.38:945][ 89]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.31.38:986][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.04.15-18.31.39:804][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.32.43:105][195]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/AnimStarterPack/BS_CrouchWalk.BS_CrouchWalk
+[2019.04.15-18.32.43:140][195]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.15-18.32.43:164][195]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.15-18.32.43:482][195]LogRenderer: Reallocating scene render targets to support 1144x604 Format 10 NumSamples 1 (Frame:1).
+[2019.04.15-18.32.43:482][195]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.04.15-18.32.48:005][519]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/AnimStarterPack/UE4_Mannequin/Mesh/SK_Mannequin.SK_Mannequin
+[2019.04.15-18.32.48:013][519]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.04.15-18.32.48:040][519]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.04.15-18.32.48:312][520]LogRenderer: Reallocating scene render targets to support 1144x888 Format 10 NumSamples 1 (Frame:1).
+[2019.04.15-18.33.06:214][965]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/Export/TestCamWakingUp.TestCamWakingUp
+[2019.04.15-18.33.10:319][263]LogSlate: Window 'Ue4ASP_Character*' being destroyed
+[2019.04.15-18.33.11:543][401]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.33.11:554][401]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.33.11:555][401]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.15-18.33.11:566][401]LogPlayLevel: [PlayLevel] Compiling Ue4ASP_Character before play...
+[2019.04.15-18.33.11:731][401]LogPlayLevel: PlayLevel: Blueprint regeneration took 176 ms (1 blueprints)
+[2019.04.15-18.33.11:731][401]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:33:11 AM)
+[2019.04.15-18.33.11:731][401]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.33.11:744][401]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012686s)
+[2019.04.15-18.33.11:745][401]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.33.11:745][401]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2019.04.15-18.33.11:745][401]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.013630s)
+[2019.04.15-18.33.11:775][401]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.33.11:786][401]LogInit: FAudioDevice initialized.
+[2019.04.15-18.33.11:816][401]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.33.11:818][401]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.33.11
+[2019.04.15-18.33.11:818][401]LogWorld: Bringing up level for play took: 0.001023
+[2019.04.15-18.33.11:833][401]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 0.027
+[2019.04.15-18.33.11:833][401]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.33.13:647][615]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.33.13:648][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.33.13:682][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.33.13:683][615]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.33.13:708][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.33.13:753][618]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.04.15-18.33.17:227][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.33.20:175][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.33.20:177][251]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest
+[2019.04.15-18.33.24:286][693]LogSlate: Window 'CameraTest - Level Blueprint Editor' being destroyed
+[2019.04.15-18.33.24:289][693]LogSlate: Window 'CameraTest - Level Blueprint Editor' being destroyed
+[2019.04.15-18.33.25:597][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.33.25:647][852]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.33.25:667][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.33.25:667][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.15-18.33.25:667][852]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:33:25 AM)
+[2019.04.15-18.33.25:667][852]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.33.25:678][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010731s)
+[2019.04.15-18.33.25:678][852]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.33.25:679][852]LogPlayLevel: PIE: World Init took: (0.000762s)
+[2019.04.15-18.33.25:679][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.011661s)
+[2019.04.15-18.33.25:714][852]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.33.25:725][852]LogInit: FAudioDevice initialized.
+[2019.04.15-18.33.25:753][852]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.33.25:755][852]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.33.25
+[2019.04.15-18.33.25:755][852]LogWorld: Bringing up level for play took: 0.001013
+[2019.04.15-18.33.25:769][852]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest -0.036
+[2019.04.15-18.33.25:770][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.33.27:130][983]LogEditorViewport: Clicking on Actor (LMB): Ue4ASP_Character_C (Ue4ASP_Character)
+[2019.04.15-18.33.28:238][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.15-18.33.29:316][226]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character
+[2019.04.15-18.33.48:616][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.33.48:643][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.33.48:683][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.33.48:684][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.33.48:712][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.33.48:772][737]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2019.04.15-18.34.21:939][810]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.34.21:953][810]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.34.21:954][810]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.15-18.34.21:963][810]LogPlayLevel: [PlayLevel] Compiling Ue4ASP_Character before play...
+[2019.04.15-18.34.22:153][810]LogPlayLevel: PlayLevel: Blueprint regeneration took 199 ms (1 blueprints)
+[2019.04.15-18.34.22:153][810]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:34:22 AM)
+[2019.04.15-18.34.22:153][810]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.34.22:165][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012172s)
+[2019.04.15-18.34.22:166][810]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.34.22:166][810]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2019.04.15-18.34.22:166][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.013228s)
+[2019.04.15-18.34.22:194][810]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.34.22:205][810]LogInit: FAudioDevice initialized.
+[2019.04.15-18.34.22:240][810]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.34.22:242][810]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.34.22
+[2019.04.15-18.34.22:242][810]LogWorld: Bringing up level for play took: 0.001409
+[2019.04.15-18.34.22:257][810]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 0.451
+[2019.04.15-18.34.22:257][810]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.34.26:868][331]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.34.26:869][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.34.26:900][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.34.26:900][331]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.34.26:929][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.34.26:969][334]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.04.15-18.34.28:363][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.34.35:787][162]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.15-18.34.35:804][162]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.34.35:804][162]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.15-18.34.35:814][162]LogPlayLevel: [PlayLevel] Compiling Ue4ASP_Character before play...
+[2019.04.15-18.34.35:995][162]LogPlayLevel: PlayLevel: Blueprint regeneration took 191 ms (1 blueprints)
+[2019.04.15-18.34.35:995][162]PIE: New page: PIE session: CameraTest (Apr 15, 2019, 10:34:35 AM)
+[2019.04.15-18.34.35:995][162]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_CameraTest
+[2019.04.15-18.34.36:005][162]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009652s)
+[2019.04.15-18.34.36:005][162]LogAIModule: Creating AISystem for world CameraTest
+[2019.04.15-18.34.36:005][162]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2019.04.15-18.34.36:005][162]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/CameraTest.CameraTest to /Game/Levels/UEDPIE_0_CameraTest.CameraTest (0.010490s)
+[2019.04.15-18.34.36:040][162]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.15-18.34.36:051][162]LogInit: FAudioDevice initialized.
+[2019.04.15-18.34.36:084][162]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.04.15-18.34.36:087][162]LogWorld: Bringing World /Game/Levels/UEDPIE_0_CameraTest.CameraTest up for play (max tick rate 0) at 2019.04.15-14.34.36
+[2019.04.15-18.34.36:087][162]LogWorld: Bringing up level for play took: 0.001864
+[2019.04.15-18.34.36:102][162]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_CameraTest 0.296
+[2019.04.15-18.34.36:102][162]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.34.40:160][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.34.40:160][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.34.40:193][629]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.15-18.34.40:194][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/CameraTest.CameraTest:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest' with GeneratedClass '/Game/Levels/CameraTest.CameraTest_C' with ClassGeneratedBy '/Game/Levels/CameraTest.CameraTest:PersistentLevel.CameraTest'
+[2019.04.15-18.34.40:221][629]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.15-18.34.40:261][632]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.04.15-18.34.40:874][698]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.15-18.36.52:198][753]BlueprintLog: New page: Compile Ue4ASP_Character
+[2019.04.15-18.36.52:218][753]LogBlueprint: Error: [Compiler Ue4ASP_Character] The type of  Value  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.04.15-18.36.52:219][753]LogBlueprint: Error: [Compiler Ue4ASP_Character] The type of  Variable  is undetermined.  Connect something to  Add  to imply a specific type.
+[2019.04.15-18.36.52:375][753]LogBlueprint: Warning: [Compiler Ue4ASP_Character] [1460.32] Compile of Ue4ASP_Character failed. 2 Fatal Issue(s) 0 Warning(s) [in 177 ms] (/Game/AnimStarterPack/Ue4ASP_Character.Ue4ASP_Character)
+[2019.04.15-18.37.52:008][ 66]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.15-18.37.52:534][ 66]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.525 s
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: 
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: Ensure condition failed: ToPin->LinkedTo.Contains(this) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 475]
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: UEdGraphPin::BreakLinkTo Pin 'ScaleValue' on node 'Add Movement Input' not reciprocally linked with pin 'AxisValue' on node 'InputAxis MoveForward'
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: Stack: 
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa11218e3f UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa11218c3f UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa1121953a UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa09d10eed UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa11219289 UE4Editor-Engine.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa09d10d90 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa0d0f16df UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa0b728ed2 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa0b731168 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa0ef2206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa0ef64c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa086a58f0 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.15-18.37.52:534][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa0eee694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa0ef6697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa0ef59a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa1e23daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa1e230de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa1e2401eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa1e22ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa608e6cc1 USER32.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa608e6693 USER32.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa1e241746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ff798be5546 UE4Editor.exe!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ff798bf596c UE4Editor.exe!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ff798bf59ea UE4Editor.exe!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ff798c048da UE4Editor.exe!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ff798c0659a UE4Editor.exe!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa60f03034 KERNEL32.DLL!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: [Callstack] 0x00007ffa630b1551 ntdll.dll!UnknownFunction []
+[2019.04.15-18.37.52:535][ 66]LogOutputDevice: Error: 
+[2019.04.15-18.37.52:537][ 66]LogStats:                SubmitErrorReport -  0.000 s
